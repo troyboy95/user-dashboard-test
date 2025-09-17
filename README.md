@@ -32,7 +32,7 @@ Fetch API for data fetching
 
 ### Getting Started
 ```bash
-git clone https://github.com/troyboy95/User-dashboard-test.git
+git clone https://github.com/troyboy95/user-dashboard-test.git
 cd User-dashboard-test
 npm install
 npm run dev
