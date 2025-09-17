@@ -8,7 +8,7 @@ Fetch and display users with name, email, phone, and company
 ![Dashboard](public/screenshots/Screenshot-landing-page.png)
 
 Search/filter users by name
-![Filter](public/screenshots/Screenshot-seacrh-bar.png)
+![Filter](public/screenshots/Screenshot-search-bar.png)
 
 Add new users via a modal form
 ![Add User](public/screenshots/Screenshot-user-form.png)
