@@ -10,7 +10,6 @@ const UserCard = ({ user }: { user: any }) => {
     return createAvatar(lorelei, {
       seed: user.name,  
       size: 128,
-      // ... other options
     }).toDataUri();
   }, []);
 
