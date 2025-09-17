@@ -1,4 +1,4 @@
-##User Dashboard
+*User Dashboard*
 
 A simple React app that displays a list of users, allows searching, adding new users, and viewing detailed information with a map.
 
