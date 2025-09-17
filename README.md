@@ -5,6 +5,7 @@ A simple React app that displays a list of users, allows searching, adding new u
 # Features
 
 Fetch and display users with name, email, phone, and company
+![Dashboard](./screenshots/Screenshot-landing-page.png)
 
 Search/filter users by name
 
