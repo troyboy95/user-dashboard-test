@@ -1,8 +1,8 @@
-*User Dashboard*
+# **User Dashboard**
 
 A simple React app that displays a list of users, allows searching, adding new users, and viewing detailed information with a map.
 
-#Features
+# Features
 
 Fetch and display users with name, email, phone, and company
 
@@ -16,7 +16,7 @@ Responsive layout with TailwindCSS
 
 Avatars generated using DiceBear
 
-#Tech Stack
+# Tech Stack
 
 React + Vite + TypeScript
 
@@ -30,7 +30,7 @@ Context API for state management
 
 Fetch API for data fetching
 
-###Getting Started
+### Getting Started
 ```bash
 git clone https://github.com/troyboy95/User-dashboard-test.git
 cd User-dashboard-test
